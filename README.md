@@ -1,2 +1,2 @@
 # Applied-Data-Science-Capstone
-My final capstone project for IBM Data Science Capstone project
+My final capstone project for IBM Data Science Capstone project by Soha
